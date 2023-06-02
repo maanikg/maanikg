@@ -5,7 +5,8 @@
 <!-- ![ReactJS]("https://img.shields.io/badge/build-passing-%20brightgreen" height="50") -->
 
 <p>
-  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936" height="30" alt = "ReactJS" />
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=282c34" height="30" alt = "ReactJS" />
+  <img src="https://img.shields.io/badge/-React Native-282c34?style=flat&logo=react&logoColor=61DAFB" height="30" alt = "ReactJS" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" />
   <img src="https://img.shields.io/badge/-SwiftUI-001b96?style=flat&logo=swift&logoColor=white" height="30" alt = "SwiftUI" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" />
