@@ -1,5 +1,6 @@
 <!--### Hi there 👋-->
-
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936)
 <!--
 **maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
