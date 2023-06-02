@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Assembly-grey?style=flat&logoColor=white" height="30" alt = "Assembly" />
   <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd55" height="30" alt = "Python" />
+  <img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" />  
 </p>
 <!--
 **maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
