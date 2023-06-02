@@ -3,7 +3,15 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936)
 <!-- ![ReactJS]("https://img.shields.io/badge/build-passing-%20brightgreen" height="50") -->
-<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936" height="30" alt = "ReactJS" /><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" />
+
+<p>
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936" height="30" alt = "ReactJS" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" />
+  <img src="https://img.shields.io/badge/-SwiftUI-001b96?style=flat&logo=swift&logoColor=white" height="30" alt = "SwiftUI" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30" alt = "MongoDB" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="30" alt = "Javascript" />
+</p>
 <!--
 **maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
