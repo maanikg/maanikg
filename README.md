@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- height = 40 -->
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936)
+<!-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936) -->
 <!-- ![ReactJS]("https://img.shields.io/badge/build-passing-%20brightgreen" height="50") -->
 
 <p>
