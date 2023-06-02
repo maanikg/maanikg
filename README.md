@@ -1,6 +1,9 @@
-<!--### Hi there 👋-->
+<!-- ### Hi there 👋 -->
+<!-- height = 40 -->
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936)
+<!-- ![ReactJS]("https://img.shields.io/badge/build-passing-%20brightgreen" height="50") -->
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936" height="30" alt = "ReactJS" /><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" />
 <!--
 **maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
