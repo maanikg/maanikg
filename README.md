@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=pytorch&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=flutter&logoColor=white" height="30" alt = "CoreML" />
+  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=docker&logoColor=white" height="30" alt = "CoreML" />
 </p>
 <!--
 **maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
