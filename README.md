@@ -3,7 +3,7 @@
 <!-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936) -->
 <!-- ![ReactJS]("https://img.shields.io/badge/build-passing-%20brightgreen" height="50") -->
-
+https://simpleicons.org/?q=aws 
 <p>
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=282c34" height="30" alt = "ReactJS" />
   <img src="https://img.shields.io/badge/-React Native-282c34?style=flat&logo=react&logoColor=61DAFB" height="30" alt = "ReactJS" />
@@ -19,12 +19,17 @@
   <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd55" height="30" alt = "Python" />
   <img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" />  
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
+  <img src="https://img.shields.io/badge/TripAdvisorAPI-34E0A1?style=flat&logo=tripadvisor&logoColor=black" height="30" alt = "TripadvisorAPI" />
+  <img src="https://img.shields.io/badge/LufthansaAPI-05164D?style=flat&logo=lufthansa&logoColor=white" height="30" alt = "LufthansaAPI" />
+  <img src="https://img.shields.io/badge/GoogleMapsAPI-4285F4?style=flat&logo=googlemaps&logoColor=red" height="30" alt = "GoogleMapsAPI" />
+  
   <img src="https://img.shields.io/badge/-CoreML-blue?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=amazonaws&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=microsoftazure&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=tensorflow&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=pytorch&logoColor=white" height="30" alt = "CoreML" />
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "CoreML" />
+  
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=flutter&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=docker&logoColor=white" height="30" alt = "CoreML" />
 </p>
