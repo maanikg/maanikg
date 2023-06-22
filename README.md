@@ -35,6 +35,7 @@ https://simpleicons.org/?q=aws
   <img src="https://img.shields.io/badge/-NEED TO DO-0d3f75?style=flat&logo=microsoftazure&logoColor=0078D4" height="30" alt = "Microsoft Azure" />
   <img src="https://img.shields.io/badge/-NEED TO DO-425066?style=flat&logo=tensorflow&logoColor=FF6F00" height="30" alt = "TensorFlow" />
   <img src="https://img.shields.io/badge/-NEED TO DO-252525?style=flat&logo=pytorch&logoColor=EE4C2C" height="30" alt = "PyTorch" />
+  <img src="https://img.shields.io/badge/-NEED TO DO-FF6C37?style=flat&logo=postman&logoColor=white" height="30" alt = "Postman" />
 
   
   <!--<img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=flutter&logoColor=white" height="30" alt = "CoreML" />!-->
