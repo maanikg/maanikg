@@ -25,6 +25,10 @@ https://simpleicons.org/?q=aws
   <img src="https://img.shields.io/badge/GoogleMapsAPI-4285F4?style=flat&logo=googlemaps&logoColor=red" height="30" alt = "GoogleMapsAPI" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=4dabcf" height="30" alt = "NumPy" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" />
+  <img src="https://img.shields.io/badge/-ScikitLearn-3499cd?style=flat&logo=scikitlearn&logoColor=F7931E" height="30" alt = "SciKitLearn" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="30" alt = "Arduino" />
+  <img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white" height="30" alt = "Flask" />
+  
   
   <img src="https://img.shields.io/badge/-CoreML-026998?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" />
   <img src="https://img.shields.io/badge/-NEED TO DO-232F3E?style=flat&logo=amazonaws&logoColor=ff9900" height="30" alt = "AWS" />
