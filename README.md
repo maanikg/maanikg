@@ -23,15 +23,18 @@ https://simpleicons.org/?q=aws
   <img src="https://img.shields.io/badge/TripAdvisorAPI-34E0A1?style=flat&logo=tripadvisor&logoColor=black" height="30" alt = "TripadvisorAPI" />
   <img src="https://img.shields.io/badge/LufthansaAPI-05164D?style=flat&logo=lufthansa&logoColor=white" height="30" alt = "LufthansaAPI" />
   <img src="https://img.shields.io/badge/GoogleMapsAPI-4285F4?style=flat&logo=googlemaps&logoColor=red" height="30" alt = "GoogleMapsAPI" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=4dabcf" height="30" alt = "NumPy" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" />
   
-  <img src="https://img.shields.io/badge/-CoreML-blue?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" />
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=amazonaws&logoColor=white" height="30" alt = "CoreML" />
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=microsoftazure&logoColor=white" height="30" alt = "CoreML" />
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=tensorflow&logoColor=white" height="30" alt = "CoreML" />
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=pytorch&logoColor=white" height="30" alt = "CoreML" />
+  <img src="https://img.shields.io/badge/-CoreML-026998?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" />
+  <img src="https://img.shields.io/badge/-NEED TO DO-232F3E?style=flat&logo=amazonaws&logoColor=ff9900" height="30" alt = "AWS" />
+  <img src="https://img.shields.io/badge/-NEED TO DO-0d3f75?style=flat&logo=microsoftazure&logoColor=0078D4" height="30" alt = "Microsoft Azure" />
+  <img src="https://img.shields.io/badge/-NEED TO DO-425066?style=flat&logo=tensorflow&logoColor=FF6F00" height="30" alt = "TensorFlow" />
+  <img src="https://img.shields.io/badge/-NEED TO DO-252525?style=flat&logo=pytorch&logoColor=EE4C2C" height="30" alt = "PyTorch" />
+
   
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=flutter&logoColor=white" height="30" alt = "CoreML" />
-  <img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=docker&logoColor=white" height="30" alt = "CoreML" />
+  <!--<img src="https://img.shields.io/badge/-NEED TO DO-blue?style=flat&logo=flutter&logoColor=white" height="30" alt = "CoreML" />!-->
+  <img src="https://img.shields.io/badge/-NEED TO DO-2496ED?style=flat&logo=docker&logoColor=white" height="30" alt = "CoreML" />
 </p>
 <!--
 **maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
