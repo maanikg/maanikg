@@ -1,4 +1,9 @@
-# Hi there 👋
+# Hey! I'm Maanik Gogna 👋
+
+#### Hi! My name is Maanik and I'm a 3rd year Computer Engineering 💻 student at the Univerity of Toronto
+
+
+
 <!-- height = 40 -->
 <!-- ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=364936) -->
