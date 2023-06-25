@@ -4,7 +4,7 @@
 
 <!-- I love using computers to solve problems and  -->
 <!-- I love solving problems, and I'm always looking to learn more!    -->
-I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in artificial intelligence and machine learning. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here! 
+I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in artificial intelligence and machine learning 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
 
 👨‍💻 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team!
 
@@ -27,6 +27,9 @@ I'm very passionate about computer technology and programming, and I'm constantl
 - bullet 1
 - bullet 2
 - bullet 3
+
+#### My last project...
+
 
 #### I'm currently working on...
 
