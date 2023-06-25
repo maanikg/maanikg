@@ -33,7 +33,7 @@ I'm very passionate about computer technology and programming, and I'm constantl
 
 #### I'm currently working on...
 
-## My Tech Stack
+## 🔥 My Tech Stack 🔥
 
 ### Languages:
 
