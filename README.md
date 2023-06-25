@@ -32,19 +32,40 @@ I'm very passionate about computer technology and programming, and I'm constantl
 
 ## My Tech Stack
 
-Languages:
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="30" alt = "C++" /> <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" height="30" alt = "C" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd55" height="30" alt = "Python" /> <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" /> <img src="https://img.shields.io/badge/-Java-f0931c?style=flat&logoColor=white" height="30" alt = "Java" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="30" alt = "Javascript"/>
-AI/ML:
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=4dabcf" height="30" alt = "NumPy" /> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" /> <img src="https://img.shields.io/badge/-ScikitLearn-3499cd?style=flat&logo=scikitlearn&logoColor=F7931E" height="30" alt = "SciKitLearn" /> <img src="https://img.shields.io/badge/-CoreML-026998?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" />
-Web Dev:
+### Languages:
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd55" height="30" alt = "Python" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="30" alt = "C++"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" height="30" alt = "C" display = "inline-block" /> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" />
+<img src="https://img.shields.io/badge/-Java-f0931c?style=flat&logoColor=white" height="30" alt = "Java" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="30" alt = "Javascript"/>
+
+### AI/ML:
+
+<img src="https://img.shields.io/badge/-CoreML-026998?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" /> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=4dabcf" height="30" alt = "NumPy" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" />
+<img src="https://img.shields.io/badge/-ScikitLearn-3499cd?style=flat&logo=scikitlearn&logoColor=F7931E" height="30" alt = "SciKitLearn" /> 
+
+
+### Web Dev:
+
 <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=282c34" height="30" alt = "ReactJS" /> <img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white" height="30" alt = "Flask" />
-Mobile Dev:
+
+### Mobile Dev:
+
 <img src="https://img.shields.io/badge/-React Native-282c34?style=flat&logo=react&logoColor=61DAFB" height="30" alt = "ReactNative" /> <img src="https://img.shields.io/badge/-SwiftUI-001b96?style=flat&logo=swift&logoColor=white" height="30" alt = "SwiftUI" />
-Backend and Cloud Services:
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" /> <img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
-Low Level:
+
+### Backend and Cloud Services:
+
+<img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" />
+
+### Low Level:
+
 <img src="https://img.shields.io/badge/-Assembly-grey?style=flat&logoColor=white" height="30" alt = "Assembly" /> <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" /> <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="30" alt = "Arduino" />
-Source Control:
+
+### Source Control:
+
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" />
 
 
