@@ -41,7 +41,7 @@ I'm very passionate about computer technology and programming, and I'm constantl
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" height="30" alt = "C" display = "inline-block" /> 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" height="30" alt = "Swift" />
 <img src="https://img.shields.io/badge/-Java-f0931c?style=flat&logoColor=white" height="30" alt = "Java" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="30" alt = "Javascript"/>
+<img src="https://img.shields.io/badge/-JavaScript-31322f?style=flat&logo=javascript&logoColor=F7DF1E" height="30" alt = "Javascript"/>
 
 ### AI/ML:
 
@@ -60,11 +60,12 @@ I'm very passionate about computer technology and programming, and I'm constantl
 
 ### Backend and Cloud Services:
 
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" /> <img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
+<img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" />  
 
 ### Low Level:
 
-<img src="https://img.shields.io/badge/-Assembly-grey?style=flat&logoColor=white" height="30" alt = "Assembly" /> <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" /> <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="30" alt = "Arduino" />
+<img src="https://img.shields.io/badge/-ARM Assembly-grey?style=flat&logoColor=white" height="30" alt = "ARMAssembly" /> <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" /> <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="30" alt = "Arduino" />
 
 ### Source Control:
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" />
