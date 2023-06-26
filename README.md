@@ -57,18 +57,11 @@ I'm very passionate about computer technology and programming, and I'm constantl
 ### Mobile Dev:
 
 <img src="https://img.shields.io/badge/-React Native-282c34?style=flat&logo=react&logoColor=61DAFB" height="30" alt = "ReactNative" /> <img src="https://img.shields.io/badge/-SwiftUI-001b96?style=flat&logo=swift&logoColor=white" height="30" alt = "SwiftUI" />
-
-### Backend and Cloud Services:
-
-<img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" />
-
-### Low Level:
-
+Backend and Cloud Services:
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" /> <img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
+Low Level:
 <img src="https://img.shields.io/badge/-Assembly-grey?style=flat&logoColor=white" height="30" alt = "Assembly" /> <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" /> <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="30" alt = "Arduino" />
-
-### Source Control:
-
+Source Control:
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" />
 
 
