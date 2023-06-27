@@ -2,14 +2,12 @@
 
 ### 📚 Hi! My name is Maanik and I'm a 3rd year Computer Engineering student at the Univerity of Toronto.
 
+[<img alt="maanikgogna | linkedin" width="40px" src="linkedinLogo.png"/>][linkedin]
+[<img alt="maanik.gogna | mail" width="40px" src="gmailLogo.png" />][gmail]
 
-[<img alt="maanikgogna | linkedin" width="40px" src="image.png" />][linkedin]
-[<img alt="maanik.gogna | mail" width="40px" src="image.png" />][gmail]
-<!-- I love using computers to solve problems and  -->
-<!-- I love solving problems, and I'm always looking to learn more!    -->
-I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in artificial intelligence and machine learning 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
+I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in `artificial intelligence` and `machine learning` 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
 
-👨‍💻 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team!
+📫 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team! 
 
 #### I'm currently working on...
 
@@ -17,10 +15,8 @@ I'm very passionate about computer technology and programming, and I'm constantl
 
 <!-- II'm an aspiring Computer Engineer -->
 
-#### 💻 _Check out all the_ `hackathons` _I've participated in:_
-![NewHacks](https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge)  
-
-![UofTHacks](https://img.shields.io/badge/UofTHacks_11-9e8ee2?style=for-the-badge)  
+#### 💻 Check out all the `hackathons` I've participated in:
+![HackTheMIST](https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge)
 - bullet 1
 - bullet 2
 - bullet 3
@@ -30,7 +26,12 @@ I'm very passionate about computer technology and programming, and I'm constantl
 - bullet 2
 - bullet 3
 
-![HackTheMIST](https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge)
+![UofTHacks](https://img.shields.io/badge/UofTHacks_11-9e8ee2?style=for-the-badge)  
+- bullet 1
+- bullet 2
+- bullet 3
+  
+![NewHacks](https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge)  
 - bullet 1
 - bullet 2
 - bullet 3
@@ -132,7 +133,7 @@ endmodule
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30" alt = "CoreML" />
 </p> -->
 
-**maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**maanikg/maanikg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -143,10 +144,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
+<!--***
 
-When I'm not busy in a hackathon or working on a project, you'll probably find me exploring new places 🔭, playing chess ♟️, listening to music 🎶, or reading a book :book:.
+### Exploring...🔭-->
 
 [linkedin]: https://www.linkedin.com/in/maanikgogna/
 [gmail]: mailto:maanik.gogna@mail.utoronto.ca
