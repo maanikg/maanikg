@@ -2,13 +2,14 @@
 
 ### 📚 Hi! My name is Maanik and I'm a 3rd year Computer Engineering student at the Univerity of Toronto.
 
-[<img alt="maanikgogna | linkedin" width="40px" src="linkedinLogo.png"/>][linkedin]
-[<img alt="maanik.gogna | mail" width="40px" src="gmailLogo.png" />][gmail]
+
 
 I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in `artificial intelligence` and `machine learning` 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
 
 📫 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team! 
 
+[<img alt="maanikgogna | linkedin" height="40px" src="linkedinLogo.png"/>][linkedin]
+[<img alt="maanik.gogna | mail" height="40px" src="gmailLogo.png" />][gmail]
 ***
 
 ### 🔭 I'm currently working on...
@@ -67,6 +68,7 @@ I'm very passionate about computer technology and programming, and I'm constantl
 
 <img src="https://img.shields.io/badge/-Firebase-f58411?style=flat&logo=firebase&logoColor=FFCA28" height="30" alt = "Firebase" /> <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=googlecloud&logoColor=white" height="30" alt = "GoogleCloud" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=darkgreen" height="30" alt = "MongoDB" />
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=77b65d" height="30" alt = "NodeJS" /><!--333333-->
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="30" alt = "Postman" />
 
 ### Low Level:
