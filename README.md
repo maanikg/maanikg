@@ -9,13 +9,15 @@ I'm very passionate about computer technology and programming, and I'm constantl
 
 📫 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team! 
 
-#### I'm currently working on...
+***
 
-#### My last project...
+### 🔭 I'm currently working on...
+
+### 🏕️ My last project...
 
 <!-- II'm an aspiring Computer Engineer -->
 
-#### 💻 Check out all the `hackathons` I've participated in:
+### 💻 Check out all the `hackathons` I've participated in:
 ![HackTheMIST](https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge)
 - bullet 1
 - bullet 2
@@ -149,6 +151,10 @@ Here are some ideas to get you started:
 <!--***
 
 ### Exploring...🔭-->
+<!--```py
+  def hello:
+    print(hi)
+```-->
 
 [linkedin]: https://www.linkedin.com/in/maanikgogna/
 [gmail]: mailto:maanik.gogna@mail.utoronto.ca
