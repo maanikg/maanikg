@@ -2,11 +2,19 @@
 
 ### 📚 Hi! My name is Maanik and I'm a 3rd year Computer Engineering student at the Univerity of Toronto.
 
+
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<img align="left" alt="maanikgogna | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />[linkedin]
+<img align="left" alt="gognamaanik | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />[gmail]
 <!-- I love using computers to solve problems and  -->
 <!-- I love solving problems, and I'm always looking to learn more!    -->
 I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in artificial intelligence and machine learning 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
 
 👨‍💻 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team!
+
+#### I'm currently working on...
+
+#### My last project...
 
 <!-- II'm an aspiring Computer Engineer -->
 
@@ -28,12 +36,7 @@ I'm very passionate about computer technology and programming, and I'm constantl
 - bullet 2
 - bullet 3
 
-#### My last project...
-
-
-#### I'm currently working on...
-
-## 🔥 My Tech Stack 🔥
+## ✨ My Tech Stack ✨
 
 ### Languages:
 
@@ -145,3 +148,6 @@ Here are some ideas to get you started:
 
 
 When I'm not busy in a hackathon or working on a project, you'll probably find me exploring new places 🔭, playing chess ♟️, listening to music 🎶, or reading a book :book:.
+
+[linkedin]: https://www.linkedin.com/in/maanikgogna/
+[gmail]: mailto:maanik.gogna@mail.utoronto.ca
