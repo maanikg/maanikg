@@ -4,7 +4,7 @@
 
 
 
-I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in `artificial intelligence` and `machine learning` 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
+I'm very passionate about computer technology and programming, and I love using computers to solve problems. I have an avid interest in `artificial intelligence` and `machine learning` and I'm constantly looking to learn new things! Check out my work here ⬇️
 
 📫 I'm currently looking for a internship position starting in summer 2024, so feel free to reach out if you think I'd be a good fit for your team! 
 
