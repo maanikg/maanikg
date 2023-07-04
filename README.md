@@ -19,25 +19,27 @@ I'm very passionate about computer technology and programming, and I'm constantl
 <!-- II'm an aspiring Computer Engineer -->
 
 ### 💻 Check out all the `hackathons` I've participated in:
-![HackTheMIST](https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge)
+[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge"/>][hackthemist] 
 - bullet 1
 - bullet 2
 - bullet 3
 
-![MakeUofT](https://img.shields.io/badge/MakeUofT_2023-66a7df?style=for-the-badge)  
+[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/MakeUofT_2023-66a7df?style=for-the-badge"/>][makeuoft] 
 - bullet 1
 - bullet 2
 - bullet 3
 
-![UofTHacks](https://img.shields.io/badge/UofTHacks_11-9e8ee2?style=for-the-badge)  
+
+[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/UofTHacks_11-9e8ee2?style=for-the-badge"/>][uofthacks]
 - bullet 1
 - bullet 2
 - bullet 3
-  
-![NewHacks](https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge)  
-- bullet 1
-- bullet 2
-- bullet 3
+
+[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge"/>][newhacks]
+- Designed a mobile app in a team of 3 to improve the university student experience of organizing study times with
+friends based on differing schedules
+- Integrated Google Cloud API to allow for users to see the live location of their friends on a map interface
+- Self-taught React Native to enable cross-platform app development within 24 hours for NewHacks 2022 hackathon
 
 ## 🔥 My Tech Stack 
 
@@ -158,3 +160,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/maanikgogna/
 [gmail]: mailto:maanik.gogna@mail.utoronto.ca
+[newhacks]: https://github.com/maanikg/reachMe.git
+[uofthacks]: https://github.com/maanikg/RoomMateUofT
+[makeuoft]: https://github.com/reaahuja/MakeUofT
+[hackthemist]: https://github.com/maanikg/thermaSave
