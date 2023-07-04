@@ -21,9 +21,10 @@ I'm very passionate about computer technology and programming, and I love using 
 
 ### 💻 Check out all the `hackathons` I've participated in:
 [<img alt="HackTheMist" height="30px" src="https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge"/>][hackthemist] 
-- Developed a `Python` app to forecast energy usage of Toronto buildings based on weather forecasts for the next 30 years and provide suggestions for proactive energy management
--  Analyzed correlation between weather and energy usage for the past 50 years to determine the optimal machine learning model to fit both sets of data, and implemented machine learning algorithms to provide predictions 
--  Self-taught random forest regression with `pandas`, `numpy`, and `scikit-learn` in under 24 hours for Hack the MIST 2023 hackathon
+- Developed a `Python` app to forecast energy usage of Toronto buildings based on weather forecasts for the next 30 years
+- Analyzed correlation between weather and energy usage for the past 50 years to determine the optimal machine learning model to fit both sets of data
+- Implemented machine learning algorithms to provide suggestions for proactive energy management
+- Self-taught random forest regression with `pandas`, `numpy`, and `scikit-learn` in under 24 hours for Hack the MIST 2023 hackathon
 
 [<img alt="MakeUofT" height="30px" src="https://img.shields.io/badge/MakeUofT_2023-66a7df?style=for-the-badge"/>][makeuoft] 
 - Created a robotic pet toy designed to engage and distract pets through audio, laser, and movement functions
