@@ -13,8 +13,9 @@ I'm very passionate about computer technology and programming, and I love using 
 ***
 
 ### 🔭 I'm currently working on...
-
+    ✈️ VacayAway
 ### 🏕️ My last project...
+    🗣️
 
 <!-- II'm an aspiring Computer Engineer -->
 
