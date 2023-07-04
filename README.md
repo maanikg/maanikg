@@ -19,27 +19,29 @@ I'm very passionate about computer technology and programming, and I love using 
 <!-- II'm an aspiring Computer Engineer -->
 
 ### 💻 Check out all the `hackathons` I've participated in:
-[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge"/>][hackthemist] 
-- bullet 1
-- bullet 2
-- bullet 3
+[<img alt="HackTheMist" height="30px" src="https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge"/>][hackthemist] 
+- Developed a `Python` app to forecast energy usage of Toronto buildings based on weather forecasts for the next 30 years and provide suggestions for proactive energy management
+-  Analyzed correlation between weather and energy usage for the past 50 years to determine the optimal machine learning model to fit both sets of data, and implemented machine learning algorithms to provide predictions 
+-  Self-taught random forest regression with `pandas`, `numpy`, and `scikit-learn` in under 24 hours for Hack the MIST 2023 hackathon
 
-[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/MakeUofT_2023-66a7df?style=for-the-badge"/>][makeuoft] 
-- bullet 1
-- bullet 2
-- bullet 3
+[<img alt="MakeUofT" height="30px" src="https://img.shields.io/badge/MakeUofT_2023-66a7df?style=for-the-badge"/>][makeuoft] 
+- Created a robotic pet toy designed to engage and distract pets through audio, laser, and movement functions
+- Incorporated full autonomous driving with steering and wall detection using DC motors and proximity sensors
+- Developed artificial intelligence algorithms to control audio functionality and laser movement to maximize pet distractions
+- Self-taught `Arduino` to integrate different aspects of the robot together within 24 hours for MakeUofT hackathon
 
-
-[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/UofTHacks_11-9e8ee2?style=for-the-badge"/>][uofthacks]
-- bullet 1
-- bullet 2
-- bullet 3
+[<img alt="UofTHacks" height="30px" src="https://img.shields.io/badge/UofTHacks_X-9e8ee2?style=for-the-badge"/>][uofthacks]
+- Developed a full stack university roommate matchmaking web app with an integrated secure instant messaging system
+- Developed artificial intelligence sorting algorithm with `pandas` to provide personalized roommate suggestions based
+on individual user criteria
+- Integrated `Flask` and `PyMongo` in under 36 hours to enable real-time updates between backend sorting algorithm,
+`MongoDB` user database, and `React.js` client frontend and messaging system for UofTHacks X hackathon
 
 [<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge"/>][newhacks]
-- Designed a mobile app in a team of 3 to improve the university student experience of organizing study times with
+- Designed a mobile app to improve the university student experience of organizing study times with
 friends based on differing schedules
-- Integrated Google Cloud API to allow for users to see the live location of their friends on a map interface
-- Self-taught React Native to enable cross-platform app development within 24 hours for NewHacks 2022 hackathon
+- Integrated `Google Cloud API` to allow for users to see the live location of their friends on a map interface
+- Self-taught `React Native` to enable development of cross-platform app within 24 hours for NewHacks 2022 hackathon
 
 ## 🔥 My Tech Stack 
 
