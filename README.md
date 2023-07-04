@@ -6,10 +6,10 @@
 
 I'm very passionate about computer technology and programming, and I'm constantly looking to learn new things. I have an avid interest in `artificial intelligence` and `machine learning` 🤖. I love using computers to solve problems and I'm always thinking of my next project idea! Check out my work here ⬇️
 
-📫 I'm currently looking for a summer 2024 internship, so feel free to reach out if you think I'd be a good fit for your team! 
+📫 I'm currently looking for a internship position starting in summer 2024, so feel free to reach out if you think I'd be a good fit for your team! 
 
-[<img alt="maanikgogna | linkedin" height="40px" src="linkedinLogo.png"/>][linkedin]
-[<img alt="maanik.gogna | mail" height="40px" src="gmailLogo.png" />][gmail]
+[<img alt="maanikgogna | linkedin" height="30px" src="linkedinLogo.png"/>][linkedin]
+[<img alt="maanik.gogna | mail" height="30px" src="gmailLogo.png" />][gmail]
 ***
 
 ### 🔭 I'm currently working on...
@@ -39,7 +39,7 @@ I'm very passionate about computer technology and programming, and I'm constantl
 - bullet 2
 - bullet 3
 
-## ✨ My Tech Stack ✨
+## 🔥 My Tech Stack 
 
 ### Languages:
 
@@ -76,9 +76,7 @@ I'm very passionate about computer technology and programming, and I'm constantl
 <img src="https://img.shields.io/badge/-ARM Assembly-grey?style=flat&logoColor=white" height="30" alt = "ARMAssembly" /> <img src="https://img.shields.io/badge/-Verilog-grey?style=flat&logoColor=white" height="30" alt = "Verilog" /> <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" height="30" alt = "Arduino" />
 
 ### Source Control:
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" />
-
-
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" alt = "Git" /> <img src="https://img.shields.io/badge/-GitHub-0e1116?style=flat&logo=github&logoColor=white" height="30" alt = "Git" />
 
 <!-- #### 📚 I'm currently learning: -->
 
