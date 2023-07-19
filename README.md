@@ -55,8 +55,8 @@ friends
 ### AI/ML:
 
 <img src="https://img.shields.io/badge/-CoreML-026998?style=flat&logo=apple&logoColor=white" height="30" alt = "CoreML" /> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=4dabcf" height="30" alt = "NumPy" />
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" />
-<img src="https://img.shields.io/badge/-ScikitLearn-3499cd?style=flat&logo=scikitlearn&logoColor=F7931E" height="30" alt = "SciKitLearn" /> 
+<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white" height="30" alt = "Pandas" />
+<img src="https://img.shields.io/badge/-scikitLearn-3499cd?style=flat&logo=scikitlearn&logoColor=F7931E" height="30" alt = "SciKitLearn" /> 
 
 
 ### Web Dev:
