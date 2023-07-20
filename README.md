@@ -107,14 +107,6 @@ printf("Hello World");
 cout << "Hello World";
 ```
 
-```assembly
-mov rax, 0x2000004 ; write
-mov rdi, 1 ; stdout
-mov rsi, message
-mov rdx, 13 ; length
-syscall
-```
-
 ```verilog
 module hello_world;
 initial begin
@@ -126,9 +118,6 @@ endmodule
 
 <!-- https://simpleicons.org/?q=aws  -->
 <!-- <p>
-  <img src="https://img.shields.io/badge/TripAdvisorAPI-34E0A1?style=flat&logo=tripadvisor&logoColor=black" height="30" alt = "TripadvisorAPI" />
-  <img src="https://img.shields.io/badge/LufthansaAPI-05164D?style=flat&logo=lufthansa&logoColor=white" height="30" alt = "LufthansaAPI" />
-  <img src="https://img.shields.io/badge/GoogleMapsAPI-4285F4?style=flat&logo=googlemaps&logoColor=red" height="30" alt = "GoogleMapsAPI" />
   <img src="https://img.shields.io/badge/-AmazonWebServices-232F3E?style=flat&logo=amazonaws&logoColor=ff9900" height="30" alt = "AWS" />
   <img src="https://img.shields.io/badge/-MicrosoftAzure-0d3f75?style=flat&logo=microsoftazure&logoColor=0078D4" height="30" alt = "Microsoft Azure" />
   <img src="https://img.shields.io/badge/-TensorFlow-425066?style=flat&logo=tensorflow&logoColor=FF6F00" height="30" alt = "TensorFlow" />
