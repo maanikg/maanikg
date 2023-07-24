@@ -14,7 +14,7 @@ Check out my work here ⬇️
 ***
 
 ### 🔭 I'm currently working on...
-#### VacayAway ✈️
+### VacayAway ✈️
 - Design full stack `React.js` trip planner for **50+ international cities** with live cheapest flight lookup and points of interest, restaurants, and hotel selection via `Google Cloud API`
 - Leverage k-means clustering with `TensorFlow` machine learning to organize events by location, ratings, etc.
 - Complete start-to-finish trip generation (cheapest flight search and hotel, restaurant, attractions scheduling) **in under 1 minute**
@@ -23,10 +23,10 @@ Check out my work here ⬇️
 ---
   
 ### 🏕️ My last project...
-#### helloMilo 🗣️ 
-- Develop a iOS app with `SwiftUI` to assess users’ live speech and provide comprehensive **real-time feedback**
-- Create machine learning models via `CreateML` with **over 90% validation accuracy** for various speech metrics (tone, speed, volume, and clarity) 
-- Manage authentication and save user info with `Firebase` to track progress
+### helloMilo 🗣️ 
+- Developed a iOS app with `SwiftUI` to assess users’ live speech and provide comprehensive **real-time feedback**
+- Created machine learning models via `CreateML` with **over 90% validation accuracy** for various speech metrics (tone, speed, volume, and clarity) 
+- Managed authentication and save user info with `Firebase` to track progress
 
 ---
 
