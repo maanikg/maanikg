@@ -4,7 +4,8 @@
 
 
 
-I'm very passionate about computer technology and programming, and I love using computers to solve problems. I have an avid interest in `artificial intelligence` and `machine learning` and I'm constantly looking to learn new things! Check out my work here ⬇️
+I'm very passionate about computer technology and programming, and I love using computers to solve problems. I have an avid interest in `artificial intelligence` and `machine learning` and I'm constantly looking to learn new things! 
+Check out my work here ⬇️
 
 📫 I'm currently looking for a internship position starting in summer 2024, so feel free to reach out if you think I'd be a good fit for your team! 
 
@@ -12,37 +13,46 @@ I'm very passionate about computer technology and programming, and I love using 
 [<img alt="maanik.gogna | mail" height="30px" src="gmailLogo.png" />][gmail]
 ***
 
-<!--### 🔭 I'm currently working on...
-    ✈️ VacayAway
+### 🔭 I'm currently working on...
+#### VacayAway ✈️
+- Design full stack `React.js` trip planner for **50+ international cities** with live cheapest flight lookup and points of interest, restaurants, and hotel selection via `Google Cloud API`
+- Leverage k-means clustering with `TensorFlow` machine learning to organize events by location, ratings, etc.
+- Complete start-to-finish trip generation (cheapest flight search and hotel, restaurant, attractions scheduling) **in under 1 minute**
+- Implement user authentication and cloud storage with `Firebase`, enabling for **live multi-user app traffic**
+
+---
+  
 ### 🏕️ My last project...
-    🗣️ -->
+#### helloMilo 🗣️ 
+- Develop a iOS app with `SwiftUI` to assess users’ live speech and provide comprehensive **real-time feedback**
+- Create machine learning models via `CreateML` with **over 90% validation accuracy** for various speech metrics (tone, speed, volume, and clarity) 
+- Manage authentication and save user info with `Firebase` to track progress
 
-<!-- II'm an aspiring Computer Engineer -->
+---
 
-### 💻 Check out all the `hackathons` I've participated in:
+### 💻 Check out some of the `hackathons` I've participated in:
 [<img alt="HackTheMist" height="30px" src="https://img.shields.io/badge/Hack_The_MIST_2023-bb3c35?style=for-the-badge"/>][hackthemist] 
 - Developed a `Python` app to forecast energy usage of Toronto buildings based on weather forecasts for the next 30 years
-- Implemented machine learning algorithms to provide suggestions for proactive energy management
-- Self-taught random forest regression with `pandas`, `numpy`, and `scikit-learn` in under 24 hours 
+- Implemented **machine learning algorithms** to provide suggestions for proactive energy management
+- Self-taught random forest regression with `pandas`, `numpy`, and `scikit-learn` in **under 24 hours**
 
 [<img alt="MakeUofT" height="30px" src="https://img.shields.io/badge/MakeUofT_2023-66a7df?style=for-the-badge"/>][makeuoft] 
 - Created a robotic pet toy designed to engage and distract pets through audio, laser, and movement functions
 - Developed artificial intelligence algorithms to control audio functionality and laser movement to maximize pet distractions
-- Self-taught `Arduino` to integrate different aspects of the robot together within 24 hours
+- Self-taught `Arduino` to integrate different aspects of the robot together **within 24 hours**
 
 [<img alt="UofTHacks" height="30px" src="https://img.shields.io/badge/UofTHacks_X-9e8ee2?style=for-the-badge"/>][uofthacks]
-- Developed a full stack university roommate matchmaking web app with an integrated secure instant messaging system
-- Developed artificial intelligence sorting algorithm with `pandas` to provide personalized roommate suggestions
-- Integrated `Flask` and `PyMongo` in under 36 hours to enable real-time updates between backend sorting algorithm,
-`MongoDB` user database, and `React.js` client frontend and messaging system
+- Designed full stack university roommate matchmaking web app with **secure instant messaging system**
+- Developed artificial intelligence sorting algorithm with `pandas` to provide **personalized roommate suggestions**
+- Integrated `Flask` and `PyMongo` to enable real-time updates between backend, `MongoDB` user database, and `React.js` client frontend in **under 36 hours** for UofTHacks X hackathon
 
-[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge"/>][newhacks]
+<!--[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge"/>][newhacks]
 - Designed a mobile app to improve the university student experience of organizing study times with
 friends
 - Integrated `Google Cloud API` to allow for users to see the live location of their friends on a map interface
-- Self-taught `React Native` to enable development of cross-platform app within 24 hours
+- Self-taught `React Native` to enable development of cross-platform app within 24 hours-->
 
-## 🔥 My Tech Stack 
+## ✨ My Tech Stack 
 
 ### Languages:
 
