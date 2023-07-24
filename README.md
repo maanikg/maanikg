@@ -25,7 +25,7 @@ Check out my work here ⬇️
 ---
   
 ### 🏕️ My last project...
-### helloMilo 🗣️ 
+### [helloMilo][helloMilo] 🗣️ 
 - Developed a iOS app with `SwiftUI` to assess users’ live speech and provide comprehensive **real-time feedback**
 - Created machine learning models via `CreateML` with **over 90% validation accuracy** for various speech metrics (tone, speed, volume, and clarity) 
 - Managed authentication and save user info with `Firebase` to track progress
@@ -168,3 +168,4 @@ Here are some ideas to get you started:
 [hackthemist]: https://github.com/maanikg/thermaSave
 [devpost]: https://devpost.com/maanikg
 [vacayaway]: https://github.com/maanikg/VacayAway
+[hellomilo]: https://github.com/maanikg/hellomilo
