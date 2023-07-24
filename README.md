@@ -1,6 +1,6 @@
 # Hey! I'm Maanik Gogna 👋
 
-### 📚 Hi! My name is Maanik and I'm a 3rd year Computer Engineering student at the Univerity of Toronto.
+### 📚 Hi! My name is Maanik and I'm a 3rd year Computer Engineering student at the Univerity of Toronto
 
 
 
