@@ -11,6 +11,8 @@ Check out my work here ⬇️
 
 [<img alt="maanikgogna | linkedin" height="30px" src="linkedinLogo.png"/>][linkedin]
 [<img alt="maanik.gogna | mail" height="30px" src="gmailLogo.png" />][gmail]
+[<img alt="maanikg | devpost" height="30px" src="devpostLogo.png" />][devpost]
+
 ***
 
 ### 🔭 I'm currently working on...
@@ -164,3 +166,4 @@ Here are some ideas to get you started:
 [uofthacks]: https://github.com/maanikg/RoomMateUofT
 [makeuoft]: https://github.com/reaahuja/MakeUofT
 [hackthemist]: https://github.com/maanikg/thermaSave
+[devpost]: https://devpost.com/maanikg
