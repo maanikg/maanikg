@@ -16,7 +16,7 @@ Check out my work here ⬇️
 ***
 
 ### 🔭 I'm currently working on...
-### VacayAway ✈️
+### [VacayAway][vacayaway] ✈️
 - Design full stack `React.js` trip planner for **50+ international cities** with live cheapest flight lookup and points of interest, restaurants, and hotel selection via `Google Cloud API`
 - Leverage k-means clustering with `TensorFlow` machine learning to organize events by location, ratings, etc.
 - Complete start-to-finish trip generation (cheapest flight search and hotel, restaurant, attractions scheduling) **in under 1 minute**
@@ -167,3 +167,4 @@ Here are some ideas to get you started:
 [makeuoft]: https://github.com/reaahuja/MakeUofT
 [hackthemist]: https://github.com/maanikg/thermaSave
 [devpost]: https://devpost.com/maanikg
+[vacayaway]: https://github.com/maanikg/VacayAway
