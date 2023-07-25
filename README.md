@@ -19,7 +19,7 @@ Check out my work here ⬇️
 ### [VacayAway][vacayaway] ✈️
 - Design full stack `React.js` trip planner for **50+ international cities** with live cheapest flight lookup and points of interest, restaurants, and hotel selection via `Google Cloud API`
 - Leverage k-means clustering with `TensorFlow` machine learning to organize events by location, ratings, etc.
-- Complete start-to-finish trip generation (cheapest flight search and hotel, restaurant, attractions scheduling) **in under 1 minute**
+- Complete start-to-finish trip generation (flight, hotel, restaurants, attractions) and scheduling in **under 1 minute**
 - Implement user authentication and cloud storage with `Firebase`, enabling for **live multi-user app traffic**
 
 ---
