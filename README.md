@@ -17,7 +17,7 @@ Check out my work here ⬇️
 
 ### 🔭 I'm currently working on...
 ### [VacayAway][vacayaway] ✈️
-- Design full stack `React.js` trip planner for **50+ international cities** with live cheapest flight lookup and points of interest, restaurants, and hotel selection via `Google Cloud API`
+- Design full stack `ReactJS` trip planner for **50+ international cities** with live cheapest flight lookup and points of interest, restaurants, and hotel selection via `Google Cloud API`
 - Leverage k-means clustering with `TensorFlow` machine learning to organize events by location, ratings, etc.
 - Complete start-to-finish trip generation (flight, hotel, restaurants, attractions) and scheduling in **under 1 minute**
 - Implement user authentication and cloud storage with `Firebase`, enabling for **live multi-user app traffic**
@@ -46,7 +46,7 @@ Check out my work here ⬇️
 [<img alt="UofTHacks" height="30px" src="https://img.shields.io/badge/UofTHacks_X-9e8ee2?style=for-the-badge"/>][uofthacks]
 - Designed full stack university roommate matchmaking web app with **secure instant messaging system**
 - Developed artificial intelligence sorting algorithm with `pandas` to provide **personalized roommate suggestions**
-- Integrated `Flask` and `PyMongo` to enable real-time updates between backend, `MongoDB` user database, and `React.js` client frontend in **under 36 hours** for UofTHacks X hackathon
+- Integrated `Flask` and `PyMongo` to enable real-time updates between backend, `MongoDB` user database, and `ReactJS` client frontend in **under 36 hours** for UofTHacks X hackathon
 
 <!--[<img alt="Newhacks" height="30px" src="https://img.shields.io/badge/NewHacks_2022-f7cd4a?style=for-the-badge"/>][newhacks]
 - Designed a mobile app to improve the university student experience of organizing study times with
