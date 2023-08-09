@@ -26,7 +26,7 @@ Check out my work here ⬇️
   
 ### 🏕️ My last project...
 ### [helloMilo][helloMilo] 🗣️ 
-- Developed a iOS app with `SwiftUI` to assess users’ live speech and provide comprehensive **real-time feedback**
+- Developed an iOS app with `SwiftUI` to assess users’ live speech and provide comprehensive **real-time feedback**
 - Created machine learning models via `CreateML` with **over 90% validation accuracy** for various speech metrics (tone, speed, volume, and clarity) 
 - Managed authentication and save user info with `Firebase` to track progress
 
