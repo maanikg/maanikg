@@ -2,10 +2,8 @@
 
 ### 📚 Hi! My name is Maanik and I'm a 3rd year Computer Engineering student at the Univerity of Toronto
 
-
-
-I'm very passionate about computer technology and programming, and I love using computers to solve problems. I have an avid interest in `artificial intelligence` and `machine learning` and I'm constantly looking to learn new things! 
-Check out my work here ⬇️
+I'm very passionate about computer technology and programming, and I love using computers to solve problems.<br>
+More about me and the projects I've worked on at [maanikg.github.io](https://maanikg.github.io).
 
 📫 I'm currently looking for a internship position starting in summer 2024, so feel free to reach out if you think I'd be a good fit for your team! 
 
