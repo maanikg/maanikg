@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 ```-->
 
 [linkedin]: https://www.linkedin.com/in/maanikgogna/
-[gmail]: mailto:maanik.gogna@mail.utoronto.ca
+[gmail]: mailto:gognamaanik@gmail.com
 [newhacks]: https://github.com/maanikg/reachMe.git
 [uofthacks]: https://github.com/maanikg/RoomMateUofT
 [makeuoft]: https://github.com/reaahuja/MakeUofT
