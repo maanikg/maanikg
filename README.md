@@ -5,7 +5,7 @@
 I'm very passionate about computer technology and programming, and I love using computers to solve problems.<br>
 More about me and the projects I've worked on at [maanikg.github.io](https://maanikg.github.io).
 
-📫 I'm currently looking for a internship position starting in summer 2024, so feel free to reach out if you think I'd be a good fit for your team! 
+<!--📫 I'm currently looking for a internship position starting in summer 2024, so feel free to reach out if you think I'd be a good fit for your team! -->
 
 [<img alt="maanikgogna | linkedin" height="30px" src="linkedinLogo.png"/>][linkedin]
 [<img alt="maanik.gogna | mail" height="30px" src="gmailLogo.png" />][gmail]
