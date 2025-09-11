@@ -10,3 +10,7 @@ More about me and the projects I've worked on at [maanikg.github.io](https://maa
 [<img alt="maanikgogna | linkedin" height="30px" src="linkedinLogo.png"/>][linkedin]
 [<img alt="maanik.gogna | mail" height="30px" src="gmailLogo.png" />][gmail]
 [<img alt="maanikg | devpost" height="30px" src="devpostLogo.png" />][devpost]
+
+[linkedin]: https://www.linkedin.com/in/maanikgogna/
+[gmail]: mailto:gognamaanik@gmail.com
+[devpost]: https://devpost.com/maanikg
