@@ -7,15 +7,15 @@ More about me and the projects I've worked on at [maanikg.github.io](https://maa
 
 🔗 Over the last 16 months, I worked at **AlphawaveSEMI (acquired by Qualcomm)**, a high-speed serdes company, as a Silicon Validation intern. I helped to validate several leading-edge projects while improving the validation flow from a software perspective. I was able to gain experience with low-level software and validation, as well as hardware debugging.
 
-#### What I'm Currently Working On ####
+### 📊 What I'm Currently Working On ###
 
 🦮 While in my fourth year of studies, I'm concurrently working under **Professor Steve Mann** to implement augmented reality (AR) glasses for navigation with obstacle detection, primarily directed towards visually impaired users. This project integrates machine learning, embedded systems, and self-designed control systems, allowing me to apply my skills in both hardware and software design.
 
 🏎️ I'm also involved in the University of Toronto Supermileage Team as an Electrical Systems Lead, where I am leading the implementation of our team's first ever telemetry system to analyze hydrogen and motor efficiency for the annual Shell Eco-Marathon Americas Competition. This project consists of a complete schematic and PCB design, as well as future debugging as necessary.
 
-#### Technical Interests ####
+### 💡 Technical Interests ###
 - 🔌 Embedded and Systems Programming – Microcontroller firmware, hardware interfaces, and low-level control.
-- 💡 Electronics & PCB Design – Circuit design, SMD components, and compact board layouts.
+- ⚡️ Electronics & PCB Design – Circuit design, SMD components, and compact board layouts.
 - 🤖 AI & Machine Learning – Data-driven modeling, computer vision, and predictive algorithms.
 - 🕶️ AR & Wearable Tech – Developing AR applications, navigation assistance, and real-time software-hardware integration.
 - ⚙️ Software Automation & Scripting – Automating workflows, testing, and repetitive tasks to improve workflow efficiency.
