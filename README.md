@@ -2,10 +2,8 @@
 
 ### 📚 Hi! My name is Maanik and I'm a 4th year Computer Engineering student at the Univerity of Toronto
 
-💻 I'm very passionate about computer technology and programming, and I love using computers to solve problems. <br>
+💻 I'm very passionate about computer technology and programming, and I love using computers to solve problems. Whether I'm making augmented reality glasses or validating high-speed serdes silicon chips for AI applications, I'm constantly exploring the field of computers. I have an avid interest in the intersection of computer hardware and software, and I'm constantly looking to learn new things in the field!<br>
 More about me and the projects I've worked on at [maanikg.github.io](https://maanikg.github.io).
-
-Whether I'm making augmented reality glasses or validating high-speed serdes silicon chips for AI applications, I'm constantly exploring the field of computers. My many projects in the field made me realize that I love working with computers, whether its related to hardware, software, or something in between. I have an avid interest in the intersection of computer hardware and software, and I'm constantly looking to learn new things in the field!
 
 🔗 Over the last 16 months, I worked at **AlphawaveSEMI (acquired by Qualcomm)**, a high-speed serdes company, as a Silicon Validation intern. I helped to validate several leading-edge projects while improving the validation flow from a software perspective. I was able to gain experience with low-level software and validation, as well as hardware debugging.
 
@@ -13,7 +11,7 @@ Whether I'm making augmented reality glasses or validating high-speed serdes sil
 
 🦮 While in my fourth year of studies, I'm concurrently working under **Professor Steve Mann** to implement augmented reality (AR) glasses for navigation with obstacle detection, primarily directed towards visually impaired users. This project integrates machine learning, embedded systems, and self-designed control systems, allowing me to apply my skills in both hardware and software design.
 
-🏎️ I'm also involved in the University of Toronto Supermileage Team as an Electrical Systems Lead, where I am leading work on the implementation of our team's first ever telemetry system to measure hydrogen and motor efficiency for the annual Shell Eco-Marathon Americas Competition (hosted in Indianapolis, USA). This work is consisting of complete schematic to PCB development, as well as future debugging as necessary. I've spent three years on the team, helping to enable successful electrical technical inspections at the competition.
+🏎️ I'm also involved in the University of Toronto Supermileage Team as an Electrical Systems Lead, where I am leading the implementation of our team's first ever telemetry system to analyze hydrogen and motor efficiency for the annual Shell Eco-Marathon Americas Competition. This project consists of a complete schematic and PCB design, as well as future debugging as necessary.
 
 #### Technical Interests ####
 - 🔌 Embedded and Systems Programming – Microcontroller firmware, hardware interfaces, and low-level control.
